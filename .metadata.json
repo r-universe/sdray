@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ade4",
+    "oncran": true
+  },
+  {
+    "package": "adegraphics",
+    "oncran": true
+  },
+  {
+    "package": "adespatial",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ade4"]
+	path = ade4
+	url = https://github.com/sdray/ade4
+	shallow = true
+	registered = true
+[submodule "adegraphics"]
+	path = adegraphics
+	url = https://github.com/sdray/adegraphics
+	shallow = true
+	registered = true
+[submodule "adespatial"]
+	path = adespatial
+	url = https://github.com/sdray/adespatial
+	shallow = true
+	registered = true
